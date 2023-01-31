@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class password
+class username
 {
 public static void main(String[] arg)
 {
